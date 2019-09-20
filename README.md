@@ -4,7 +4,7 @@
 para que funcione el proyecto se debe instalar lo sigiente:
 
 
-1) npm install firebase
+1)npm install firebase
 
 2)npm i react-firebaseui
 
